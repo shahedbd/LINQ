@@ -8,7 +8,7 @@ namespace LINQRnD.Model
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime DateofBirth { get; set; }
-        public long Amoungt { get; set; }
+        public long Savings { get; set; }
         public string Country { get; set; }
     }
 }

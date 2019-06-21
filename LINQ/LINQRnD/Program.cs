@@ -7,7 +7,6 @@ namespace LINQRnD
     {
         static void Main(string[] args)
         {
-            var result = JSONReader.GetAll();
             Console.WriteLine("Hello World!");
         }
     }
