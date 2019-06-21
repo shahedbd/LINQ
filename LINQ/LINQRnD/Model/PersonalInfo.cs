@@ -1,0 +1,14 @@
+using System;
+
+namespace LINQRnD.Model
+{
+    public class PersonalInfo
+    {
+        public long Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public DateTime DateofBirth { get; set; }
+        public long Amoungt { get; set; }
+        public string Country { get; set; }
+    }
+}
