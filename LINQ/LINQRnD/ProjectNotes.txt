@@ -10,6 +10,7 @@ Language-Integrated Query (LINQ) is a powerful query language introduced
 with .Net 3.5 & Visual Studio 2008. LINQ can be used 
 with C# or Visual Basic to query different data sources.
 
+https://www.tutorialsteacher.com/linq/linq-tutorials
 
 
 
